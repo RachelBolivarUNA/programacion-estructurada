@@ -1,0 +1,47 @@
+# Compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Binaries produced by the README compile examples (no file extension)
+# Do NOT use demo-* or lab-* — those would also ignore the .cpp source files.
+/chapters/**/demo
+/chapters/**/lab
+/chapters/**/demo-00
+/chapters/**/demo-01
+/chapters/**/demo-02
+/chapters/**/demo-03
+/chapters/**/demo-04
+/chapters/**/lab-01
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# CMake / build folders
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Debug / profiling
+*.dSYM/
+*.pdb
+*.ilk
