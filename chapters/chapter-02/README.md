@@ -37,6 +37,14 @@ En este capítulo aprendemos cómo un programa guarda y utiliza información mie
 
 ---
 
+## Skill Builder
+
+| File | What you will practice |
+|------|------------------------|
+| [skill-builder-02.md](skill-builder-02.md) | Ejercicios prácticos de variables, tipos de datos, `cin` y `cout` (sin calificación). |
+
+---
+
 ## Cómo compilar
 
 Cada archivo se compila de forma independiente. Ejemplo:

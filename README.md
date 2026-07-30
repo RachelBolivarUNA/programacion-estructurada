@@ -54,7 +54,8 @@ programacion-estructurada/
         ├── demo-02-data-types.cpp
         ├── demo-03-input-output.cpp
         ├── demo-04-updating-variables.cpp
-        └── lab-01-soundwave-registration.cpp
+        ├── lab-01-soundwave-registration.cpp
+        └── skill-builder-02.md
 ```
 
 ---
