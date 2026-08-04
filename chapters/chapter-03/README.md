@@ -46,6 +46,14 @@ En este capítulo aprendemos cómo un programa transforma información con opera
 
 ---
 
+## Skill Builder
+
+| File | What you will practice |
+|------|------------------------|
+| [skill-builder-03.md](skill-builder-03.md) | Ejercicios prácticos de operadores, condicionales y ciclos (sin calificación). |
+
+---
+
 ## Cómo compilar
 
 Cada archivo se compila de forma independiente. Ejemplo:
