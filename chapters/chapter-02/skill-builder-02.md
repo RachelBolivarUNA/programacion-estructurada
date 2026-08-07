@@ -121,6 +121,6 @@ Si respondiste **sí** a todas, estás listo para continuar.
 
 ## Coming Next
 
-**Chapter 03 — How Does a Program Transform Information?**
+**Chapter 03 — How Does a Program Transform, Decide, and Repeat Information?**
 
-En el próximo capítulo descubriremos cómo un programa puede modificar la información que almacena utilizando operadores.
+En el próximo capítulo descubriremos cómo un programa puede modificar la información que almacena utilizando operadores, tomar decisiones con condicionales, y repetir acciones con ciclos.
