@@ -15,7 +15,7 @@ Aquí encontrarás todos los ejemplos desarrollados en clase, organizados por ca
 | [Chapter 01](chapters/chapter-01/) | Thinking Like a Software Engineer | ✅ |
 | [Chapter 02](chapters/chapter-02/) | How Does a Program Remember Information? | ✅ |
 | [Chapter 03](chapters/chapter-03/) | How Does a Program Transform, Decide, and Repeat Information? | ✅ |
-| Chapter 04 | — | Coming Soon |
+| [Chapter 04](chapters/chapter-04/) | How Does a Program Organize Its Work? | ✅ |
 | Chapter 05 | — | Coming Soon |
 | Chapter 06 | — | Coming Soon |
 | Chapter 07 | — | Coming Soon |
@@ -56,15 +56,27 @@ programacion-estructurada/
     │   ├── demo-04-updating-variables.cpp
     │   ├── lab-01-soundwave-registration.cpp
     │   └── skill-builder-02.md
-    └── chapter-03/
-        ├── demo-01-arithmetic-operators.cpp
-        ├── demo-02-conditionals.cpp
-        ├── demo-03-loops-menu.cpp
-        ├── demo-04-for-loop.cpp
-        ├── challenge-01-average-listening-time.cpp
-        ├── challenge-02-premium-playback.cpp
-        ├── challenge-03-valid-rating-loop.cpp
-        ├── lab-01-soundwave-login.cpp
+    ├── chapter-03/
+    │   ├── demo-01-arithmetic-operators.cpp
+    │   ├── demo-02-conditionals.cpp
+    │   ├── demo-03-loops-menu.cpp
+    │   ├── demo-04-for-loop.cpp
+    │   ├── challenge-01-average-listening-time.cpp
+    │   ├── challenge-02-premium-playback.cpp
+    │   ├── challenge-03-valid-rating-loop.cpp
+    │   ├── lab-01-soundwave-login.cpp
+    │   └── README.md
+    └── chapter-04/
+        ├── demo-01-functions-basics.cpp
+        ├── demo-02-parameters.cpp
+        ├── demo-03-return-values.cpp
+        ├── demo-04-switch-menu.cpp
+        ├── challenge-01-view-playlist-function.cpp
+        ├── challenge-02-play-count-by-reference.cpp
+        ├── challenge-03-average-function.cpp
+        ├── challenge-04-switch-rate-song.cpp
+        ├── lab-01-soundwave-menu-refactor.cpp
+        ├── skill-builder-04.md
         └── README.md
 ```
 
