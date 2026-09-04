@@ -16,7 +16,7 @@ Aquí encontrarás todos los ejemplos desarrollados en clase, organizados por ca
 | [Chapter 02](chapters/chapter-02/) | How Does a Program Remember Information? | ✅ |
 | [Chapter 03](chapters/chapter-03/) | How Does a Program Transform, Decide, and Repeat Information? | ✅ |
 | [Chapter 04](chapters/chapter-04/) | How Does a Program Organize Its Work? | ✅ |
-| Chapter 05 | — | Coming Soon |
+| [Chapter 05](chapters/chapter-05/) | How Does a Program Stay Organized as It Grows? | ✅ |
 | Chapter 06 | — | Coming Soon |
 | Chapter 07 | — | Coming Soon |
 | Chapter 08 | — | Coming Soon |
@@ -66,17 +66,28 @@ programacion-estructurada/
     │   ├── challenge-03-valid-rating-loop.cpp
     │   ├── lab-01-soundwave-login.cpp
     │   └── README.md
-    └── chapter-04/
-        ├── demo-01-functions-basics.cpp
-        ├── demo-02-parameters.cpp
-        ├── demo-03-return-values.cpp
-        ├── demo-04-switch-menu.cpp
-        ├── challenge-01-view-playlist-function.cpp
-        ├── challenge-02-play-count-by-reference.cpp
-        ├── challenge-03-average-function.cpp
-        ├── challenge-04-switch-rate-song.cpp
-        ├── lab-01-soundwave-menu-refactor.cpp
-        ├── skill-builder-04.md
+    ├── chapter-04/
+    │   ├── demo-01-functions-basics.cpp
+    │   ├── demo-02-parameters.cpp
+    │   ├── demo-03-return-values.cpp
+    │   ├── demo-04-switch-menu.cpp
+    │   ├── challenge-01-view-playlist-function.cpp
+    │   ├── challenge-02-play-count-by-reference.cpp
+    │   ├── challenge-03-average-function.cpp
+    │   ├── challenge-04-switch-rate-song.cpp
+    │   ├── lab-01-soundwave-menu-refactor.cpp
+    │   ├── skill-builder-04.md
+    │   └── README.md
+    └── chapter-05/
+        ├── demo-01-local-scope.cpp
+        ├── demo-02-global-scope.cpp
+        ├── demo-03-modularity-reuse.cpp
+        ├── challenge-01-predict-local-scope.cpp
+        ├── challenge-02-shared-global-counter.cpp
+        ├── challenge-03-split-login-function.cpp
+        ├── lab-01-soundwave-codebase-messy.cpp
+        ├── lab-01-soundwave-codebase-cleanup.cpp
+        ├── skill-builder-05.md
         └── README.md
 ```
 
