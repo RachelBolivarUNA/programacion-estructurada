@@ -12,6 +12,7 @@
 // ============================================================
 
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -78,10 +79,10 @@ int main() {
   cout << "=== SoundWave Lab: Genre Grid Stats ===" << endl;
   cout << endl;
 
-  const char* dayNames[ROWS] = {
+  string dayNames[ROWS] = {
       "Monday", "Tuesday", "Wednesday", "Thursday",
       "Friday", "Saturday", "Sunday"};
-  const char* genreNames[COLS] = {"Pop", "Rock", "Jazz", "Electronic"};
+  string genreNames[COLS] = {"Pop", "Rock", "Jazz", "Electronic"};
 
   int genrePlays[ROWS][COLS] = {
       {120, 85, 40, 95},

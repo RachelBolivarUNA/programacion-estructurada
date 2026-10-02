@@ -15,6 +15,7 @@
 // ============================================================
 
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -54,11 +55,11 @@ int main() {
     cout << "=== SoundWave Demo 04: Matrix as a Parameter ===" << endl;
     cout << endl;
 
-    const char* dayNames[ROWS] = {
+    string dayNames[ROWS] = {
         "Monday", "Tuesday", "Wednesday", "Thursday",
         "Friday", "Saturday", "Sunday"
     };
-    const char* genreNames[COLS] = {"Pop", "Rock", "Jazz", "Electronic"};
+    string genreNames[COLS] = {"Pop", "Rock", "Jazz", "Electronic"};
 
     int genrePlays[ROWS][COLS] = {
         {120, 85, 40, 95},
