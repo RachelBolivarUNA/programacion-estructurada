@@ -18,7 +18,7 @@ Aquí encontrarás todos los ejemplos desarrollados en clase, organizados por ca
 | [Chapter 04](chapters/chapter-04/) | How Does a Program Organize Its Work? | ✅ |
 | [Chapter 05](chapters/chapter-05/) | How Does a Program Stay Organized as It Grows? | ✅ |
 | [Chapter 06](chapters/chapter-06/) | How Does a Program Remember Many Things at Once? | ✅ |
-| Chapter 07 | — | Coming Soon |
+| [Chapter 07](chapters/chapter-07/) | How Does a Program Organize Data Into a Grid? | ✅ |
 | Chapter 08 | — | Coming Soon |
 
 ---
@@ -89,14 +89,22 @@ programacion-estructurada/
     │   ├── lab-01-soundwave-codebase-cleanup.cpp
     │   ├── skill-builder-05.md
     │   └── README.md
-    └── chapter-06/
-        ├── demo-01-array-declaration.cpp
-        ├── demo-02-array-traversal.cpp
-        ├── demo-03-array-operations.cpp
-        ├── demo-04-array-as-parameter.cpp
-        ├── challenge-01-linear-search.cpp
-        ├── lab-01-playlist-stats.cpp
-        ├── skill-builder-06.md
+    ├── chapter-06/
+    │   ├── demo-01-array-declaration.cpp
+    │   ├── demo-02-array-traversal.cpp
+    │   ├── demo-03-array-operations.cpp
+    │   ├── demo-04-array-as-parameter.cpp
+    │   ├── challenge-01-linear-search.cpp
+    │   ├── lab-01-playlist-stats.cpp
+    │   ├── skill-builder-06.md
+    │   └── README.md
+    └── chapter-07/
+        ├── demo-01-matrix-declaration.cpp
+        ├── demo-02-matrix-traversal.cpp
+        ├── demo-03-matrix-operations.cpp
+        ├── demo-04-matrix-as-parameter.cpp
+        ├── lab-01-genre-grid-stats.cpp
+        ├── skill-builder-07.md
         └── README.md
 ```
 
