@@ -20,6 +20,7 @@ Aquí encontrarás todos los ejemplos desarrollados en clase, organizados por ca
 | [Chapter 06](chapters/chapter-06/) | How Does a Program Remember Many Things at Once? | ✅ |
 | [Chapter 07](chapters/chapter-07/) | How Does a Program Organize Data Into a Grid? | ✅ |
 | [Chapter 08](chapters/chapter-08/) | How Does a Program Remember Things After It Closes? | ✅ |
+| [Chapter 09](chapters/chapter-09/) | ¿Cómo maneja un programa lo que sale mal? | ✅ |
 
 ---
 
@@ -106,13 +107,20 @@ programacion-estructurada/
     │   ├── lab-01-genre-grid-stats.cpp
     │   ├── skill-builder-07.md
     │   └── README.md
-    └── chapter-08/
-        ├── demo-01-file-write.cpp
-        ├── demo-02-file-read.cpp
+    ├── chapter-08/
+    │   ├── demo-01-file-write.cpp
+    │   ├── demo-02-file-read.cpp
+    │   ├── demo-03-file-error-handling.cpp
+    │   ├── demo-04-csv-basics.cpp
+    │   ├── lab-01-playlist-csv.cpp
+    │   ├── skill-builder-08.md
+    │   └── README.md
+    └── chapter-09/
+        ├── demo-01-try-catch-basics.cpp
+        ├── demo-02-standard-exceptions.cpp
         ├── demo-03-file-error-handling.cpp
-        ├── demo-04-csv-basics.cpp
-        ├── lab-01-playlist-csv.cpp
-        ├── skill-builder-08.md
+        ├── song_plays.csv
+        ├── skill-builder-09.md
         └── README.md
 ```
 
