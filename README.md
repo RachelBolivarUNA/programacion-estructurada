@@ -21,6 +21,7 @@ Aquí encontrarás todos los ejemplos desarrollados en clase, organizados por ca
 | [Chapter 07](chapters/chapter-07/) | How Does a Program Organize Data Into a Grid? | ✅ |
 | [Chapter 08](chapters/chapter-08/) | How Does a Program Remember Things After It Closes? | ✅ |
 | [Chapter 09](chapters/chapter-09/) | ¿Cómo maneja un programa lo que sale mal? | ✅ |
+| [Chapter 10](chapters/chapter-10/) | Casos de prueba y pruebas unitarias (cierre del curso) | ✅ |
 
 ---
 
@@ -115,12 +116,18 @@ programacion-estructurada/
     │   ├── lab-01-playlist-csv.cpp
     │   ├── skill-builder-08.md
     │   └── README.md
-    └── chapter-09/
-        ├── demo-01-try-catch-basics.cpp
-        ├── demo-02-standard-exceptions.cpp
-        ├── demo-03-file-error-handling.cpp
-        ├── song_plays.csv
-        ├── skill-builder-09.md
+    ├── chapter-09/
+    │   ├── demo-01-try-catch-basics.cpp
+    │   ├── demo-02-standard-exceptions.cpp
+    │   ├── demo-03-file-error-handling.cpp
+    │   ├── song_plays.csv
+    │   ├── skill-builder-09.md
+    │   └── README.md
+    └── chapter-10/
+        ├── demo-01-manual-test-harness.cpp
+        ├── demo-02-fixed-test-harness.cpp
+        ├── demo-03-assert-basics.cpp
+        ├── skill-builder-10.md
         └── README.md
 ```
 
